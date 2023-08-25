@@ -1,1 +1,1 @@
-# mc732
+Repositório da disciplina Projeto de Sistemas Computacionais
